@@ -9,4 +9,4 @@ Final Outcome: After running this script -
 
 Files Included
 
-    Task2.sql - SQL DML to handling nulls and data insertion in Publisher table.
+    Data Insertion.sql - SQL DML to handling nulls and data insertion in Publisher table.
